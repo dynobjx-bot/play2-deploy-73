@@ -3,7 +3,7 @@ import com.typesafe.sbt.SbtNativePackager._
 
 name := """play2-deploy-73"""
 
-version := "0.0.1-SNAPSHOT"
+version := "0.0.2-SNAPSHOT"
 
 scalaVersion := "2.11.4"
 
